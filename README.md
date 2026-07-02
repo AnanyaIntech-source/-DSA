@@ -1,2 +1,25 @@
-# -DSA
-Data Structures &amp; Algorithms implemented in C++. Includes topic-wise solutions, explanations, complexity analysis and coding interview practice.
+# DSA
+
+This repository documents my journey learning Data Structures & Algorithms in C++.
+##
+
+### Topics
+
+- C++ Basics
+- Arrays
+- Strings
+- Vectors
+- Object-Oriented Programming
+- Design & Analysis of Algorithms
+- LeetCode Practice (Coming Soon)
+##
+
+### Goal
+
+Build strong problem-solving skills for software engineering interviews while mastering fundamental data structures and algorithms.
+##
+
+### Language
+
+C++
+
