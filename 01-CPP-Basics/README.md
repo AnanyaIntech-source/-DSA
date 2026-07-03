@@ -2,7 +2,9 @@
 
 This folder contains beginner-level C++ programs covering basic syntax, input/output, loops, conditional statements, simple arithmetic operations, and pointer basics.
 
-## Topics Covered
+---
+
+### Topics Covered
 
 - Basic C++ program structure
 - `iostream` and `using namespace std`
@@ -14,7 +16,9 @@ This folder contains beginner-level C++ programs covering basic syntax, input/ou
 - Counting repeated sorted elements
 - Constant pointer basics
 
-## Programs Included
+---
+
+### Programs Included
 
 | File/Program | Concept |
 |---|---|
@@ -28,14 +32,20 @@ This folder contains beginner-level C++ programs covering basic syntax, input/ou
 | Sorted Element Count | Counts repeated values in sorted input |
 | Constant Pointer | Demonstrates pointer with `const` |
 
-## Key Learning
+---
+
+### Key Learning
 
 These programs helped me understand the basic building blocks of C++ programming before moving into Data Structures and Algorithms.
 
-## Language Used
+---
+
+### Language Used
 
 C++
 
-## Status
+---
+
+### Status
 
 ✅ Completed
