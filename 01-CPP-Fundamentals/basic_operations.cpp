@@ -1,13 +1,3 @@
-//Simple Program Base
-#include <iostream>
-using namespace std;
-
-int main(){
-    cout << "Welcome to C++ world";
-    return 0;
-}
-
-
 // Basic Operations
 #include <iostream>
 using namespace std;
