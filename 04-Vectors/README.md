@@ -118,4 +118,6 @@ C++
 
 ### Status
 
-✅ Completed
+- ✅ Concepts Completed
+- ✅ Practice Problems Added
+- 🔄 More Interview Questions Coming Soon
