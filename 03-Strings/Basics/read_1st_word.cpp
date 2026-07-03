@@ -1,1 +1,10 @@
+//Read 1st word - STRING
+#include <iostream>
+using namespace std;
 
+int main(){
+    string str;
+    cin >> str;
+    cout << str;
+    return 0;
+}
