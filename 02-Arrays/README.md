@@ -1,6 +1,6 @@
 # Arrays in C++
 
-This folder contains fundamental C++ programs demonstrating array creation, traversal, searching, manipulation, and commonly used array operations. These concepts form the foundation for Data Structures & Algorithms and problem-solving.
+This repository contains my C++ implementations of fundamental array concepts along with beginner-friendly DSA practice problems. It covers array operations, searching techniques, STL functions and interview-oriented questions to strengthen problem-solving skills.
 
 ---
 
@@ -8,35 +8,48 @@ This folder contains fundamental C++ programs demonstrating array creation, trav
 
 - Array declaration and initialization
 - Static memory allocation
-- Accessing and updating array elements
+- Array traversal
+- Updating array elements
 - Finding array size using `sizeof()`
-- Array traversal using loops
-- Finding smallest and largest elements
-- Using `min()` and `max()` functions
+- Finding minimum and maximum elements
+- STL functions (`min()`, `max()`, `sort()`, `reverse()`)
 - Linear Search
 - Binary Search
-- Reversing an array
-- Reverse traversal
-- Time Complexity basics
+- Array reversal
+- Time Complexity analysis
+- Problem-solving using arrays
 
 ---
 
-### Programs Included
+### Concepts Implemented
 
 | Program | Concept |
 |---------|---------|
-| Change Array Element | Modify array values |
-| Array Size | Calculate memory size and number of elements |
-| Create & Display Array | Input and output using loops |
-| Smallest Element (Loop) | Find minimum element manually |
-| Largest Element (Loop) | Find maximum element manually |
-| Smallest Element (`min()`) | Using STL `min()` function |
-| Largest Element (`max()`) | Using STL `max()` function |
-| Linear Search | Search an element using sequential traversal |
-| Reverse Array | Reverse an array using two-pointer approach |
-| Reverse Print | Display array elements in reverse order |
-| Binary Search | Search in a sorted array using Binary Search |
-| String Input Practice | Practice using `getline()` and string operations |
+| Change Array Element | Updating array values |
+| Array Size | Memory size and number of elements |
+| Create & Display Array | Input and traversal using loops |
+| Smallest Element | Traversal |
+| Largest Element | Traversal |
+| Minimum using `min()` | STL Function |
+| Maximum using `max()` | STL Function |
+| Linear Search | Sequential Searching |
+| Binary Search | Divide & Conquer |
+| Reverse Array | Two Pointer Technique |
+| Reverse Print | Reverse Traversal |
+
+---
+
+### Practice Problems
+
+| Problem | Technique |
+|---------|-----------|
+| Binary Search | Divide & Conquer |
+| Pair Sum | Nested Loops |
+| Missing Number | Mathematical Formula |
+| Second Largest Element | Sorting |
+| Frequency of Elements | Counting |
+| Move Zeroes to End | Two Pointer Technique |
+| Reverse Array (Without Swap) | Extra Array |
 
 ---
 
@@ -44,9 +57,9 @@ This folder contains fundamental C++ programs demonstrating array creation, trav
 
 *Static Arrays*
 
-- Fixed size
-- Stored in stack memory
-- Size determined during compile time
+- Fixed-size data structure
+- Memory allocated during compile time
+- Elements stored in stack memory
 
 Example:
 
@@ -56,16 +69,17 @@ int arr[5];
 
 ---
 
-### Common Operations
+### Time Complexity
 
-| Operation | Time Complexity |
-|-----------|----------------:|
+| Operation | Complexity |
+|-----------|-----------:|
 | Traversal | O(n) |
 | Linear Search | O(n) |
-| Binary Search (Sorted Array) | O(log n) |
+| Binary Search | O(log n) |
 | Reverse Array | O(n) |
-| Find Minimum | O(n) |
-| Find Maximum | O(n) |
+| Pair Sum (Brute Force) | O(n²) |
+| Frequency Count | O(n²) |
+| Find Minimum / Maximum | O(n) |
 
 ---
 
@@ -73,10 +87,10 @@ int arr[5];
 
 | Function | Purpose |
 |----------|---------|
-| `sizeof()` | Find total memory occupied by an array |
-| `min()` | Return the smaller of two values |
-| `max()` | Return the larger of two values |
-| `swap()` | Exchange two elements |
+| `sizeof()` | Find array size |
+| `min()` | Return smaller value |
+| `max()` | Return larger value |
+| `swap()` | Exchange two values |
 | `sort()` | Sort array in ascending order |
 | `reverse()` | Reverse array elements |
 
@@ -84,26 +98,48 @@ int arr[5];
 
 ### Key Learning
 
-Through these programs, I learned:
+Through these implementations, I learned:
 
-- How arrays are stored in memory
-- Array traversal using loops
-- Performing search operations
-- Manipulating array elements efficiently
-- Understanding time complexity of common array algorithms
-- Applying two-pointer technique for reversing arrays
-- Difference between Linear Search and Binary Search
+- Working with static arrays in C++
+- Traversing and modifying arrays efficiently
+- Searching using Linear and Binary Search
+- Finding minimum and maximum values
+- Applying STL functions to simplify code
+- Solving common array-based coding interview questions
+- Understanding the time complexity of different algorithms
+- Building a strong foundation for advanced DSA topics
 
-These concepts serve as the foundation for advanced topics such as vectors, recursion, sorting algorithms, dynamic programming, and interview-level array problems.
+---
+
+### Repository Structure
+
+```
+02-Arrays/
+│
+├── array_basics.cpp
+├── linear_search.cpp
+├── binary_search.cpp
+├── reverse_array.cpp
+├── Practice/
+│   ├── pair_sum.cpp
+│   ├── missing_number.cpp
+│   ├── second_largest.cpp
+│   ├── frequency_count.cpp
+│   ├── move_zeroes.cpp
+│   └── reverse_without_swap.cpp
+└── README.md
+```
 
 ---
 
 ### Language Used
 
-C++
+- C++
 
 ---
 
 ### Status
 
-✅ Completed
+- ✅ Completed
+- ✅ Practice Problems Added
+- 🔄 More Interview Questions Coming Soon
