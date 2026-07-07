@@ -14,12 +14,12 @@ The goal of this repository is to strengthen my problem-solving skills, improve 
 
 ### Topics
 
-- C++ Basics
-- Arrays
-- Strings
-- Vectors
-- Object-Oriented Programming
-- Design & Analysis of Algorithms
+- **[C++ Basics](https://github.com/AnanyaIntech-source/-DSA/tree/main/01-CPP-Fundamentals)**
+- **[Arrays](https://github.com/AnanyaIntech-source/-DSA/tree/main/02-Arrays)**
+- **[Strings](https://github.com/AnanyaIntech-source/-DSA/tree/main/03-Strings)**
+- **[Vectors](https://github.com/AnanyaIntech-source/-DSA/tree/main/04-Vectors)**
+- **[Object-Oriented Programming](https://github.com/AnanyaIntech-source/-DSA/tree/main/05-Object-Oriented-Programming)**
+- **[Design & Analysis of Algorithms](https://github.com/AnanyaIntech-source/-DSA/tree/main/06-Recursion)** (Work in Progress)
 - LeetCode Practice (Coming Soon)
 ---
 ## Project Structure
