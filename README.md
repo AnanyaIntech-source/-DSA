@@ -27,15 +27,22 @@ The goal of this repository is to strengthen my problem-solving skills, improve 
 ```text
 DSA/
 ├── 01-CPP-Fundamentals/
-|   ├── README.md
-|   ├── employ-copilot-chat-as-your-ai-assistant.png
-|   ├── enhance-productivity-with-prebuilt-microsoft-365-copilot-agents.png
-|   ├── explore-ai-basics.png
-|   ├── explore-prebuilt-microsoft-365-copilot-agents.png
-|   ├── introduction-to-prompt-engineering-with-github-copilot.png
-|   ├── microsoft-applied-skills-deploy-and-configure-azure-monitor-certificate.pdf
-|   ├── microsoft-applied-skills-generate-reports-with-ai-research-agents.pdf
-|   └── unlock-productivity-and-unleash-creativity-with-ai-powered-chat.png
+|   ├── basics.cpp
+|   ├── conditionals.cpp
+|   └── loops.cpp
+├── 02-Arrays/
+|   ├── arrays_basics.cpp
+|   └── arrays_questions.cpp
+|   03-Strings/
+|   └── strings.cpp
+├── 04-Vectors/
+|   ├── vectors_basics.cpp
+|   └── vectors_questions.cpp
+├── 05-Object-Oriented-Programming/
+|   ├── oops_basics.cpp
+|   └── oops_questions.cpp
+├── 06-Recursion/
+|   └── recursion.cpp
 ├── LICENSE
 └── README.md
 ```
