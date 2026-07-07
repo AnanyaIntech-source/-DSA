@@ -1,4 +1,5 @@
 //-------------------------------BASE------------------------------------------
+
 //Simple Program Base
 #include <iostream>
 using namespace std;
